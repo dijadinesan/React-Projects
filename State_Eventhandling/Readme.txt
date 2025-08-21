@@ -1,1 +1,1 @@
-React App example for State, Event handling etc
+Counter App showing example for State, Event handling etc
